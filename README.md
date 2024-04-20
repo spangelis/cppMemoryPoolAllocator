@@ -1,5 +1,4 @@
-# Лабораторная работа
-MemoryPoolsAllocator
+# Лабораторная работа ITMO. MemoryPoolsAllocator.
 
 ## Задача
 
